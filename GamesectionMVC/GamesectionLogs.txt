@@ -1,0 +1,68 @@
+Tarih: 04/11/2022 19:38:20 ID: 4 Olan Oyun Silinemedi, Error: The DELETE statement conflicted with the REFERENCE constraint "FK_GameCategory_Game_GameID". The conflict occurred in database "GamesectionDb", table "dbo.GameCategory", column 'GameID'.
+The statement has been terminated.
+Tarih: 04/11/2022 19:40:07 ID: 4 Olan Oyun Silinemedi, Error: The DELETE statement conflicted with the REFERENCE constraint "FK_GameCategory_Game_GameID". The conflict occurred in database "GamesectionDb", table "dbo.GameCategory", column 'GameID'.
+The statement has been terminated.
+Tarih: 04/11/2022 19:43:30 ID: 4 Olan Oyun Silinemedi, Error: The DELETE statement conflicted with the REFERENCE constraint "FK_GameCategory_Game_GameID". The conflict occurred in database "GamesectionDb", table "dbo.GameCategory", column 'GameID'.
+The statement has been terminated.
+Tarih: 04/11/2022 19:45:23 ID: 4 Olan Oyun Silinemedi, Error: The DELETE statement conflicted with the REFERENCE constraint "FK_GameCategory_Game_GameID". The conflict occurred in database "GamesectionDb", table "dbo.GameCategory", column 'GameID'.
+The statement has been terminated.
+Tarih: 04/11/2022 19:52:27 Oyun ID: 4 Olan Oyun Silindi
+Tarih: 04/11/2022 19:57:18 Oyun ID: 4 Olan Oyun Silinemedi, Warning
+Logun Geldiği Yer: CartManager>EntityResult<IEnumerable<CartDTO>> AddToCart(CartDTO cartDTO) Tarih: 04/18/2022 00:43:12 Oyun ID: 3 User ID: 1  Oyun Adı:  Sepete Eklenemedi, Error: Object reference not set to an instance of an object.
+Logun Geldiği Yer: GameManager>EntityResult<IEnumerable<GameDTO>> GetCartByGameId(int userId) Tarih: 04/18/2022 00:47:33 Oyun Çekilemedi, NotFound 
+Logun Geldiği Yer: GameManager>EntityResult<IEnumerable<GameDTO>> GetCartByGameId(int userId) Tarih: 04/18/2022 00:47:37 Oyun Çekilemedi, NotFound 
+Logun Geldiği Yer: CartManager>EntityResult<IEnumerable<CartDTO>> AddToCart(CartDTO cartDTO) Tarih: 04/18/2022 01:03:02 Oyun ID: 5 User ID: 1  Oyun Adı:  Sepete Eklenemedi, Error: The parameterized query '(@gameId int,@userId int,@quantity int,@active int,@deleted bigi' expects the parameter '@deleted', which was not supplied.
+Logun Geldiği Yer: CartManager>EntityResult<IEnumerable<CartDTO>> AddToCart(CartDTO cartDTO) Tarih: 04/18/2022 01:03:09 Oyun ID: 5 User ID: 1  Oyun Adı:  Sepete Eklenemedi, Error: The parameterized query '(@gameId int,@userId int,@quantity int,@active int,@deleted bigi' expects the parameter '@deleted', which was not supplied.
+Logun Geldiği Yer: CartManager>EntityResult<IEnumerable<CartDTO>> AddToCart(CartDTO cartDTO) Tarih: 04/18/2022 01:03:26 Oyun ID: 7 User ID: 1  Oyun Adı:  Sepete Eklenemedi, Error: The parameterized query '(@gameId int,@userId int,@quantity int,@active int,@deleted bigi' expects the parameter '@deleted', which was not supplied.
+Logun Geldiği Yer: GameManager>EntityResult Delete(int gameid) Tarih: 04/18/2022 15:02:05 Oyun ID: 14 Olan Oyun Silindi
+Logun Geldiği Yer: GameManager>EntityResult Delete(int gameid) Tarih: 04/18/2022 15:09:01 Oyun ID: 13 Olan Oyun Silindi
+Logun Geldiği Yer: GameManager>EntityResult Delete(int gameid) Tarih: 04/18/2022 15:10:02 Oyun ID: 12 Olan Oyun Silindi
+Logun Geldiği Yer: GameManager>EntityResult Delete(int gameid) Tarih: 04/18/2022 15:11:14 Oyun ID: 11 Olan Oyun Silindi
+Logun Geldiği Yer: GameManager>EntityResult Delete(int gameid) Tarih: 04/18/2022 15:11:34 Oyun ID: 2 Olan Oyun Silindi
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/23/2022 15:32:29 Oyun Çekilemedi, Error: Unable to cast object of type 'Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[Entity.DTO.GameDTO]' to type 'Entity.DTO.GameDTO'.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/23/2022 15:32:33 Oyun Çekilemedi, Error: Unable to cast object of type 'Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[Entity.DTO.GameDTO]' to type 'Entity.DTO.GameDTO'.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/23/2022 15:32:41 Oyun Çekilemedi, Error: Unable to cast object of type 'Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[Entity.DTO.GameDTO]' to type 'Entity.DTO.GameDTO'.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/23/2022 21:52:50 Oyun Çekilemedi, Error: Invalid attempt to read when no data is present.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/23/2022 21:53:03 Oyun Çekilemedi, Error: Invalid attempt to read when no data is present.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/23/2022 21:53:14 Oyun Çekilemedi, Error: Invalid attempt to read when no data is present.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/24/2022 15:57:36 Oyun Çekilemedi, Error: Invalid attempt to call CheckDataIsReady when reader is closed.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/24/2022 15:57:49 Oyun Çekilemedi, Error: Invalid attempt to call CheckDataIsReady when reader is closed.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/24/2022 15:59:47 Oyun Çekilemedi, Error: Invalid attempt to call CheckDataIsReady when reader is closed.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/24/2022 15:59:58 Oyun Çekilemedi, Error: Invalid attempt to call CheckDataIsReady when reader is closed.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/24/2022 16:06:51 Oyun Çekilemedi, Error: Invalid attempt to call CheckDataIsReady when reader is closed.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/24/2022 16:07:00 Oyun Çekilemedi, Error: Invalid attempt to call CheckDataIsReady when reader is closed.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/24/2022 16:07:44 Oyun Çekilemedi, Error: Invalid attempt to call CheckDataIsReady when reader is closed.
+Logun Geldiği Yer: GameManager>EntityResult<GameDTO> GetGameAndImageByGameId(int gameId) Tarih: 04/24/2022 16:08:54 Oyun Çekilemedi, Error: Invalid attempt to call CheckDataIsReady when reader is closed.
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 16:44:40 GameID: 10 CategoryID: 1 Oyunun Kategorisi Güncellenemedi, Error: The property 'CategoryID' on entity type 'GameCategory' is part of a key and so cannot be modified or marked as modified. To change the principal of an existing entity with an identifying foreign key first delete the dependent and invoke 'SaveChanges' then associate the dependent with the new principal.
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 16:44:41 ID: 10  Oyun Adı: Cyberpunk 2077 Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 16:50:32 GameID: 10 CategoryID: 2 Oyunun Kategorisi Güncellenemedi, Non Validation
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 16:50:32 ID: 10  Oyun Adı: Cyberpunk 2077 Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 16:50:46 GameID: 10 CategoryID: 1 Oyunun Kategorisi Güncellenemedi, Error: The property 'CategoryID' on entity type 'GameCategory' is part of a key and so cannot be modified or marked as modified. To change the principal of an existing entity with an identifying foreign key first delete the dependent and invoke 'SaveChanges' then associate the dependent with the new principal.
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 16:50:47 ID: 10  Oyun Adı: Cyberpunk 2077 Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:18:36 GameID: 10 CategoryID: 2 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:18:37 ID: 10  Oyun Adı: Cyberpunk 2077 Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:20:10 GameID: 10 CategoryID: 1 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:20:10 ID: 10  Oyun Adı: Cyberpunk 2077 Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:20:20 GameID: 10 CategoryID: 2 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:20:20 ID: 10  Oyun Adı: Cyberpunk 2077 Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:20:32 GameID: 10 CategoryID: 1 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:20:32 ID: 10  Oyun Adı: Cyberpunk 2077 Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:20:37 GameID: 10 CategoryID: 2 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:20:37 ID: 10  Oyun Adı: Cyberpunk 2077 Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:20:55 GameID: 8 CategoryID: 2 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:20:55 ID: 8  Oyun Adı: PUBG: BATTLEGROUNDS Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:21:00 GameID: 8 CategoryID: 3 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:21:00 ID: 8  Oyun Adı: PUBG: BATTLEGROUNDS Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:21:16 GameID: 8 CategoryID: 3 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:21:16 ID: 8  Oyun Adı: PUBG: BATTLEGROUND Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:21:21 GameID: 8 CategoryID: 3 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:21:21 ID: 8  Oyun Adı: PUBG: BATTLEGROUNDS Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:21:30 GameID: 8 CategoryID: 3 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:21:31 ID: 8  Oyun Adı: PUBG: BATTLEGROUNDS Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:21:36 GameID: 8 CategoryID: 3 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:21:36 ID: 8  Oyun Adı: PUBG: BATTLEGROUNDS Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:21:53 GameID: 8 CategoryID: 3 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:21:53 ID: 8  Oyun Adı: PUBG: BATTLEGROUNDS Oyunu Güncellendi
+Logun Geldiği Yer: GameCategoryManager>EntityResult<bool> Update(GameCategory entity, int categoryid, int gameid) Tarih: 04/24/2022 18:22:00 GameID: 8 CategoryID: 3 Oyunun Kategorisi Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Update(Game entity, int gameid) Tarih: 04/24/2022 18:22:00 ID: 8  Oyun Adı: PUBG: BATTLEGROUNDS Oyunu Güncellendi
+Logun Geldiği Yer: GameManager>EntityResult Delete(int gameid) Tarih: 05/29/2022 12:59:07 Oyun ID: 10 Olan Oyun Silindi

@@ -1,0 +1,52 @@
+﻿@model GameDTO
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content modal-content-demo">
+            <div class="modal-header">
+                <h6 class="modal-title"></h6><button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+                <h6>Güncelle</h6>
+                <!--<form action"#" id="form" enctype="multipart/form-data" class="form-horizontal" onsubmit="return window.alert("geldi");">-->
+                <div class="form-group">
+                    <label>Oyun Adı</label>
+                    <input type="text" class="form-control" id="game-name" name="game_name" value="@Model.GameName">
+                    <input type="text" style="display : none;" class="form-control" id="game-ıd" name="game_ıd" value="@Model.ID">
+                </div>
+                <div class="form-group">
+                    <label>Açıklama</label>
+                    <textarea style="height:250px;" type="text" class="form-control" id="game-description" name="game_description">@Model.Description</textarea>
+                </div>
+                <div class="form-group">
+                    <label>Fiyat</label>
+                    <input type="text" class="form-control" id="game-price" name="game_price" value="@Model.Price">
+                </div>
+                <!--<div class="form-group">-->
+                    <label>Kategori</label>
+                    <select id="categorySelect" class="form-control select2-no-search select2-hidden-accessible" >
+                        <!--<option label="Bir Tane Seçin" data-select2-id="15"></option>-->
+                        <option data-adr="@Model.CategoryID" value="@Model.GameCategoryName" >
+                            @Model.GameCategoryName
+                        </option>
+                        @foreach (var item in Model.Categories)
+                        {
+                            <option data-adr="@item.ID" value="@item.CategoryName" >@item.CategoryName</option>
+                        }
+                    </select>
+                <!---</div>-->
+                <label>Oyun Görseli</label>
+                <div class="input-group file-browser">
+                    <input type="text" class="form-control browse-file" placeholder="choose" readonly>
+                    <label class="input-group-btn">
+                        <span class="btn btn-default">
+                            Browse <input type="file" name="resim" id="dosya" style="display: none;" multiple>
+                        </span>
+                    </label>
+                </div>
+                <!--</form>-->
+            </div>
+            <div class="modal-footer">
+                <button onclick="güncelle()" type="submit" data-dismiss="modal" class="btn ripple btn-primary">Gönder</button>
+                <button class="btn ripple btn-secondary" data-dismiss="modal" type="button">Close</button>
+            </div>
+        </div>
+    </div>

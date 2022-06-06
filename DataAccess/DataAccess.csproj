@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\Entity\Entity.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Abstract\" />
+    <None Remove="Concrete\" />
+    <None Remove="Context\" />
+    <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
+    <None Remove="Concrete\EntityFramework\" />
+    <None Remove="Concrete\ADONET\" />
+    <None Remove="Concrete\DAPPER\" />
+    <None Remove="Dapper" />
+    <None Remove="DataSeed\" />
+    <None Remove="Mappings\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Context\" />
+    <Folder Include="Concrete\EntityFramework\" />
+    <Folder Include="Concrete\ADONET\" />
+    <Folder Include="Concrete\DAPPER\" />
+    <Folder Include="DataSeed\" />
+    <Folder Include="Mappings\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.3" />
+    <PackageReference Include="Dapper" Version="2.0.123" />
+  </ItemGroup>
+</Project>

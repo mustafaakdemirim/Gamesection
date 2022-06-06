@@ -1,0 +1,17 @@
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/BussinessLogic.deps.json
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/BussinessLogic.dll
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/BussinessLogic.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/Core.dll
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/Entity.dll
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/Core.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/bin/Debug/netstandard2.1/Entity.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/obj/Debug/netstandard2.1/BussinessLogic.csproj.AssemblyReference.cache
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/obj/Debug/netstandard2.1/BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/obj/Debug/netstandard2.1/BussinessLogic.AssemblyInfoInputs.cache
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/obj/Debug/netstandard2.1/BussinessLogic.AssemblyInfo.cs
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/obj/Debug/netstandard2.1/BussinessLogic.csproj.CoreCompileInputs.cache
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/obj/Debug/netstandard2.1/BussinessLogic.csproj.CopyComplete
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/obj/Debug/netstandard2.1/BussinessLogic.dll
+/Users/mustafaakdemir/Desktop/Gamesection/BussinessLogic/obj/Debug/netstandard2.1/BussinessLogic.pdb

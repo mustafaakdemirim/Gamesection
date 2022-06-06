@@ -1,0 +1,10 @@
+/Users/mustafaakdemir/Desktop/Gamesection/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/mustafaakdemir/Desktop/Gamesection/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/mustafaakdemir/Desktop/Gamesection/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/Core/obj/Debug/netstandard2.1/Core.csproj.AssemblyReference.cache
+/Users/mustafaakdemir/Desktop/Gamesection/Core/obj/Debug/netstandard2.1/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafaakdemir/Desktop/Gamesection/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/mustafaakdemir/Desktop/Gamesection/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/mustafaakdemir/Desktop/Gamesection/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/mustafaakdemir/Desktop/Gamesection/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/mustafaakdemir/Desktop/Gamesection/Core/obj/Debug/netstandard2.1/Core.pdb

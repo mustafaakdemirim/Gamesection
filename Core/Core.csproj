@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ENTITY\" />
+    <None Remove="DAL\" />
+    <None Remove="BLL\" />
+    <None Remove="BLL\Constant\" />
+    <None Remove="BLL\Logger\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ENTITY\" />
+    <Folder Include="DAL\" />
+    <Folder Include="BLL\" />
+    <Folder Include="BLL\Constant\" />
+    <Folder Include="BLL\Logger\" />
+  </ItemGroup>
+</Project>

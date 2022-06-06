@@ -1,0 +1,13 @@
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/obj/Debug/netstandard2.1/Entity.csproj.AssemblyReference.cache
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/obj/Debug/netstandard2.1/Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/obj/Debug/netstandard2.1/Entity.AssemblyInfoInputs.cache
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/obj/Debug/netstandard2.1/Entity.AssemblyInfo.cs
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/obj/Debug/netstandard2.1/Entity.csproj.CoreCompileInputs.cache
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/bin/Debug/netstandard2.1/Entity.deps.json
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/bin/Debug/netstandard2.1/Entity.dll
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/bin/Debug/netstandard2.1/Entity.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/bin/Debug/netstandard2.1/Core.dll
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/bin/Debug/netstandard2.1/Core.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/obj/Debug/netstandard2.1/Entity.csproj.CopyComplete
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/obj/Debug/netstandard2.1/Entity.dll
+/Users/mustafaakdemir/Desktop/Gamesection/Entity/obj/Debug/netstandard2.1/Entity.pdb

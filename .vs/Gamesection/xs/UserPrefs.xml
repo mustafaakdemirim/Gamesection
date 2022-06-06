@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="API &amp; MVC">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/Context/GamesectionDbContext.cs">
+    <Files>
+      <File FileName="DataAccess/Context/GamesectionDbContext.cs" Line="16" Column="103" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gamesection" expanded="True">
+            <Node name="DataAccess" expanded="True">
+              <Node name="Context" expanded="True">
+                <Node name="GamesectionDbContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC.GamesectionMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>GamesectionAPI/GamesectionAPI.csproj</String>
+    <String>GamesectionAPI/GamesectionMVC/GamesectionMVC.csproj</String>
+    <String>GamesectionAPI/GamesectionAPI/GamesectionMVC/GamesectionMVC.csproj</String>
+    <String>Gamesection/GamesectionMVC.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.API.GamesectionAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/mustafaakdemir/Library/Caches/VisualStudio/8.0/Symbols/DapperLib/Dapper/2a837ad7d036671ac9a75c9945bb970aa41b7de9</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.ItemProperties.TEST PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mustafaakdemir/Desktop/Gamesection/GamesectionAPI/Controllers/CategoryController.cs" relfile="GamesectionAPI/Controllers/CategoryController.cs" line="23" column="1" />
+      <Breakpoint file="/Users/mustafaakdemir/Desktop/Gamesection/GamesectionMVC/Areas/Admin/Controllers/GameController.cs" relfile="GamesectionMVC/Areas/Admin/Controllers/GameController.cs" line="86" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="API &amp; MVC" Name="API &amp; MVC">
+      <Items>
+        <StartupItem ItemId="{F4CD7B00-816F-4339-8390-FC826D4972B4}" ItemName="GamesectionAPI" ConfigurationId="GamesectionAPI" />
+        <StartupItem ItemId="{BBFEE6C8-74FC-467C-94F3-4220E64AAF23}" ItemName="GamesectionMVC" ConfigurationId="Gamesection" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

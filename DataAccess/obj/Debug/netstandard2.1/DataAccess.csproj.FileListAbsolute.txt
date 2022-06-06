@@ -1,0 +1,15 @@
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/bin/Debug/netstandard2.1/Core.dll
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/bin/Debug/netstandard2.1/Entity.dll
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/bin/Debug/netstandard2.1/Core.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/bin/Debug/netstandard2.1/Entity.pdb
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.AssemblyReference.cache
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/obj/Debug/netstandard2.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/mustafaakdemir/Desktop/Gamesection/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb
